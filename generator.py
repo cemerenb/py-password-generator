@@ -131,7 +131,7 @@ def func():
 
     if lower == 1 and upper == 1 and number == 1 and spec == 1:
         print("\n")
-        print("--------------------------------------------")
+        print("-------------------------------------------")
         print("\t\t" + i_1, end="")
         print(i_2, end="")
         print(i_3, end="")
@@ -142,7 +142,7 @@ def func():
         print(i_8, end="")
         print(i_9, end="")
         print(i_10)
-        print("--------------------------------------------")
+        print("-------------------------------------------")
         print("\n")
         main()
     else:
